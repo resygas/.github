@@ -1,6 +1,6 @@
 # ResyGas
 
-![ResyGas Logo](./path-to-logo/Vector.png)
+![ResyGas Logo](./Vector.png)
 
 ## Overview
 ResyGas is a comprehensive system designed to enhance the reservation experience for hard-to-get restaurants. Our organization comprises three main branches, each serving a unique purpose within the system.
