@@ -3,7 +3,7 @@
 ## Overview
 resygas is a comprehensive system designed to enhance the reservation experience for hard-to-get restaurants. Our organization comprises three main branches, each serving a unique purpose within the system.
 
-## Branches
+## Repos
 
 ### 1. resygas-api
 This branch houses a FastAPI application that interacts with Resy's API and our MongoDB database. The primary responsibilities of this branch include:
@@ -25,3 +25,6 @@ This branch contains a React.js web application that provides a user-friendly in
 - Searching and browsing available reservations.
 - Managing user profiles and reservation history.
 - Providing real-time notifications for reservation status updates.
+
+## Information for Developers
+[This Google Sheets contains all important information](https://docs.google.com/spreadsheets/d/10PZ77WMfxTysox8e9gtQABwgS4zCcWBJWqEYqr9MqxQ/edit?usp=sharing)
